@@ -1,4 +1,4 @@
-![DmV Software Banner](./DmVSoftware_banner.png)
+![DmV Software Banner](https://raw.githubusercontent.com/DmV-Software/.github/main/DmVSoftware_banner.png)
 
 ### Engineering Solutions from Concept to Commercial Reality
 
