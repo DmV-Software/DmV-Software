@@ -22,9 +22,8 @@ We develop specialized engineering tools tailored for professionals:
 We are always open to collaboration on complex, high-impact projects.
 
 *   **Commercial Products:** [Gumroad](https://dmvtools.gumroad.com/)
-*   **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/dmytro-voloshyn-software-architect)
 *   **Portfolio & Community:** [F6S](https://www.f6s.com/dmv-software)
-*   **Lead Architect Profile:** [@dmvoloshyn](https://github.com/dmvoloshyn)
+*   **Lead Architect Profile:** [LinkedIn](https://www.linkedin.com/in/dmytro-voloshyn-software-architect)
 *   **Architectural Solutions:** [Overview](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/00_system/System-Overview.md)
 *   **Engineering Patterns:** [Samples](https://github.com/dmvoloshyn/dmvoloshyn/tree/main/05_engineering_patterns)
 
