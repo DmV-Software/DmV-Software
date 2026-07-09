@@ -24,11 +24,12 @@ We are always open to collaboration on complex, high-impact projects.
 *   **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/dmytro-voloshyn-software-architect)
 *   **Portfolio & Community:** [F6S](https://www.f6s.com/dmv-software)
 *   **Commercial Products:** [Gumroad](https://dmvtools.gumroad.com/)
-*   [📄 **Download Professional CV (PDF)**](./CV_Dmytro_Voloshyn.pdf?raw=true)
+
+[📄 **Download Professional CV (PDF)**](./CV_Dmytro_Voloshyn.pdf?raw=true)
 
 ---
 
 ### **Define. Measure. Verify.**
 
-*DmV Software | Senior Java Application Architect & Systems Engineering Expert*
+*DmV Software - Senior Java Application Architect & Systems Engineering Expert*
 
