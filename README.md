@@ -24,6 +24,9 @@ We are always open to collaboration on complex, high-impact projects.
 *   **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/dmytro-voloshyn-software-architect)
 *   **Portfolio & Community:** [F6S](https://www.f6s.com/dmv-software)
 *   **Commercial Products:** [Gumroad](https://dmvtools.gumroad.com/)
+* **Lead Architect Profile:** [GitHub @dmvoloshyn](https://github.com/dmvoloshyn)
+* **Architectural Solutions:** [System overview](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/00_system/System-Overview.md)
+* **Engineering Patterns:** [Engineering patterns](https://github.com/dmvoloshyn/dmvoloshyn/tree/main/05_engineering_patterns)
 
 [📄 **Download Professional CV (PDF)**](./CV_Dmytro_Voloshyn.pdf?raw=true)
 
