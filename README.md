@@ -28,7 +28,7 @@ We are always open to collaboration on complex, high-impact projects.
 
 ---
 
-###**Define. Measure. Verify.**
+### **Define. Measure. Verify.**
 
 *DmV Software | Senior Java Application Architect & Systems Engineering Expert*
 
