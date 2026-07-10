@@ -13,7 +13,6 @@ We specialize in transforming complex industrial workflows into intuitive, user-
 * **Industrial Expertise:** Our background in systems engineering ensures precision and stability in every line of code.
 
 ### Key Solutions
-### Key Solutions
 We develop specialized engineering tools tailored for professionals:
 
 * **Concrete Works Cost Estimator Pro:** Automated estimation workflows.
