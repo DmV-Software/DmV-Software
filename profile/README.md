@@ -32,7 +32,7 @@ We are always open to collaboration on complex, high-impact projects.
 *   **Architectural Solutions:** [Overview](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/00_system/System-Overview.md)
 *   **Engineering Patterns:** [Samples](https://github.com/dmvoloshyn/dmvoloshyn/tree/main/05_engineering_patterns)
 
-[📄 **Download Professional CV (PDF)**](./CV_Dmytro_Voloshyn.pdf?raw=true&v=2)
+[📄 **Download Professional CV (PDF)**](./CV_Dmytro_Voloshyn.pdf?raw=true)
 
 ---
 
